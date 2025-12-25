@@ -1,4 +1,6 @@
 # Real-Time-AI-Anomaly-Detection-BI-Reporting-Suite
+<img width="942" height="550" alt="123" src="https://github.com/user-attachments/assets/3cee2ece-8141-4d9e-af84-6e036600994a" />
+
 This project is a data solution focused on automated data quality monitoring, anomaly detection, and business intelligence visualization. It showcases how modern data analysis, machine learning, and dashboarding can be integrated to deliver real-time actionable insights for decision-makers.
 
 Key Features
