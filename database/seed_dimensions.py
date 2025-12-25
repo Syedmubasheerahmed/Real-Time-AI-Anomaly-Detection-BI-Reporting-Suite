@@ -32,4 +32,5 @@ for i in range(730):
 conn.commit()
 cur.close()
 conn.close()
-print("✓ Dimension tables seeded")
+print(" Dimension tables seeded")
+
